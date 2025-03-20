@@ -1,6 +1,6 @@
 require_relative "../lib/cmake"
 
-class Kf5KArchive < Formula
+class Kf5Karchive < Formula
   desc "Process launcher to speed up launching KDE applications"
   homepage "https://api.kde.org/frameworks/karchive/html/index.html"
   url "https://download.kde.org/stable/frameworks/5.111/karchive-5.111.0.tar.xz"
