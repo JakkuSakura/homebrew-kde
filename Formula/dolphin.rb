@@ -12,6 +12,7 @@ class Dolphin < Formula
   depends_on "kdoctools" => :build
   depends_on "ninja" => :build
 
+  depends_on "kde-mac/kde/kf5-ki18n"
   depends_on "kde-mac/kde/kf5-breeze-icons"
   depends_on "kde-mac/kde/kf5-kactivities"
   depends_on "kde-mac/kde/kf5-kcmutils"
