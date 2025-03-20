@@ -1,6 +1,6 @@
 require_relative "../lib/cmake"
 
-class KF5I18n < Formula
+class Kf5Ki18n < Formula
   desc "Process launcher to speed up launching KDE applications"
   homepage "https://api.kde.org/frameworks/ki18n/html/index.html"
   url "https://download.kde.org/stable/frameworks/5.111/ki18n-5.111.0.tar.xz"
